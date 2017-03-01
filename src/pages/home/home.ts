@@ -8,7 +8,7 @@ import { NavController } from 'ionic-angular';
 })
 export class HomePage {
 
-  imgUrl = "img/"
+  imgUrl = "assets/img/"
   imgName = ["background.png"]
 
   constructor(public navCtrl: NavController) {
